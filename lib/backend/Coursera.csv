@@ -1,0 +1,101 @@
+course_name,course_description,course_rating,course_url
+Python for Beginners,A beginner-friendly guide to programming with Python.,4.8,https://www.coursera.org/learn/python-for-beginners
+Introduction to AI,An overview of artificial intelligence and its applications.,4.7,https://www.coursera.org/learn/introduction-to-ai
+Data Science Fundamentals,An introductory course on data science concepts and methods.,4.6,https://www.coursera.org/learn/data-science-fundamentals
+Deep Learning with TensorFlow,Master deep learning techniques with TensorFlow.,4.9,https://www.coursera.org/learn/deep-learning-tensorflow
+Machine Learning Basics,Learn the basics of machine learning algorithms.,4.5,https://www.coursera.org/learn/machine-learning-basics
+Web Development Bootcamp,Become a web developer with hands-on projects.,4.8,https://www.udemy.com/course/web-development-bootcamp
+Introduction to Cybersecurity,Understand the principles of cybersecurity and online safety.,4.7,https://www.coursera.org/learn/cybersecurity
+Digital Marketing Strategies,Boost your brand with proven digital marketing techniques.,4.6,https://www.udemy.com/course/digital-marketing-strategies
+Graphic Design Essentials,Learn design fundamentals and tools for creating visuals.,4.5,https://www.coursera.org/learn/graphic-design-essentials
+SQL for Data Analysis,Use SQL to analyze and visualize data.,4.9,https://www.udemy.com/course/sql-data-analysis
+Cloud Computing Fundamentals,Introduction to cloud platforms like AWS and Azure.,4.7,https://www.coursera.org/learn/cloud-computing
+Big Data and Hadoop,Learn how to manage and analyze big data with Hadoop.,4.6,https://www.udemy.com/course/big-data-hadoop
+Blockchain Basics,Understand blockchain technology and its applications.,4.8,https://www.coursera.org/learn/blockchain-basics
+DevOps with AWS,DevOps fundamentals using Amazon Web Services.,4.5,https://www.udemy.com/course/devops-aws
+Game Development with Unity,Build 2D and 3D games with Unity engine.,4.9,https://www.coursera.org/learn/game-development-unity
+Natural Language Processing,Apply AI to text and language processing tasks.,4.7,https://www.udemy.com/course/natural-language-processing
+Business Analytics,Use data to drive decision-making in businesses.,4.8,https://www.coursera.org/learn/business-analytics
+Financial Modeling,Learn how to create detailed financial models.,4.5,https://www.udemy.com/course/financial-modeling
+Creative Writing,Write creatively and explore storytelling techniques.,4.6,https://www.coursera.org/learn/creative-writing
+Project Management Essentials,Key skills and techniques for effective project management.,4.8,https://www.udemy.com/course/project-management-essentials
+Course 21,Description for Course 21,4.1,https://www.example.com/course-21
+Course 22,Description for Course 22,4.2,https://www.example.com/course-22
+Course 23,Description for Course 23,4.3,https://www.example.com/course-23
+Course 24,Description for Course 24,4.4,https://www.example.com/course-24
+Course 25,Description for Course 25,4.0,https://www.example.com/course-25
+Course 26,Description for Course 26,4.1,https://www.example.com/course-26
+Course 27,Description for Course 27,4.2,https://www.example.com/course-27
+Course 28,Description for Course 28,4.3,https://www.example.com/course-28
+Course 29,Description for Course 29,4.4,https://www.example.com/course-29
+Course 30,Description for Course 30,4.0,https://www.example.com/course-30
+Course 31,Description for Course 31,4.1,https://www.example.com/course-31
+Course 32,Description for Course 32,4.2,https://www.example.com/course-32
+Course 33,Description for Course 33,4.3,https://www.example.com/course-33
+Course 34,Description for Course 34,4.4,https://www.example.com/course-34
+Course 35,Description for Course 35,4.0,https://www.example.com/course-35
+Course 36,Description for Course 36,4.1,https://www.example.com/course-36
+Course 37,Description for Course 37,4.2,https://www.example.com/course-37
+Course 38,Description for Course 38,4.3,https://www.example.com/course-38
+Course 39,Description for Course 39,4.4,https://www.example.com/course-39
+Course 40,Description for Course 40,4.0,https://www.example.com/course-40
+Course 41,Description for Course 41,4.1,https://www.example.com/course-41
+Course 42,Description for Course 42,4.2,https://www.example.com/course-42
+Course 43,Description for Course 43,4.3,https://www.example.com/course-43
+Course 44,Description for Course 44,4.4,https://www.example.com/course-44
+Course 45,Description for Course 45,4.0,https://www.example.com/course-45
+Course 46,Description for Course 46,4.1,https://www.example.com/course-46
+Course 47,Description for Course 47,4.2,https://www.example.com/course-47
+Course 48,Description for Course 48,4.3,https://www.example.com/course-48
+Course 49,Description for Course 49,4.4,https://www.example.com/course-49
+Course 50,Description for Course 50,4.0,https://www.example.com/course-50
+Course 51,Description for Course 51,4.1,https://www.example.com/course-51
+Course 52,Description for Course 52,4.2,https://www.example.com/course-52
+Course 53,Description for Course 53,4.3,https://www.example.com/course-53
+Course 54,Description for Course 54,4.4,https://www.example.com/course-54
+Course 55,Description for Course 55,4.0,https://www.example.com/course-55
+Course 56,Description for Course 56,4.1,https://www.example.com/course-56
+Course 57,Description for Course 57,4.2,https://www.example.com/course-57
+Course 58,Description for Course 58,4.3,https://www.example.com/course-58
+Course 59,Description for Course 59,4.4,https://www.example.com/course-59
+Course 60,Description for Course 60,4.0,https://www.example.com/course-60
+Course 61,Description for Course 61,4.1,https://www.example.com/course-61
+Course 62,Description for Course 62,4.2,https://www.example.com/course-62
+Course 63,Description for Course 63,4.3,https://www.example.com/course-63
+Course 64,Description for Course 64,4.4,https://www.example.com/course-64
+Course 65,Description for Course 65,4.0,https://www.example.com/course-65
+Course 66,Description for Course 66,4.1,https://www.example.com/course-66
+Course 67,Description for Course 67,4.2,https://www.example.com/course-67
+Course 68,Description for Course 68,4.3,https://www.example.com/course-68
+Course 69,Description for Course 69,4.4,https://www.example.com/course-69
+Course 70,Description for Course 70,4.0,https://www.example.com/course-70
+Course 71,Description for Course 71,4.1,https://www.example.com/course-71
+Course 72,Description for Course 72,4.2,https://www.example.com/course-72
+Course 73,Description for Course 73,4.3,https://www.example.com/course-73
+Course 74,Description for Course 74,4.4,https://www.example.com/course-74
+Course 75,Description for Course 75,4.0,https://www.example.com/course-75
+Course 76,Description for Course 76,4.1,https://www.example.com/course-76
+Course 77,Description for Course 77,4.2,https://www.example.com/course-77
+Course 78,Description for Course 78,4.3,https://www.example.com/course-78
+Course 79,Description for Course 79,4.4,https://www.example.com/course-79
+Course 80,Description for Course 80,4.0,https://www.example.com/course-80
+Course 81,Description for Course 81,4.1,https://www.example.com/course-81
+Course 82,Description for Course 82,4.2,https://www.example.com/course-82
+Course 83,Description for Course 83,4.3,https://www.example.com/course-83
+Course 84,Description for Course 84,4.4,https://www.example.com/course-84
+Course 85,Description for Course 85,4.0,https://www.example.com/course-85
+Course 86,Description for Course 86,4.1,https://www.example.com/course-86
+Course 87,Description for Course 87,4.2,https://www.example.com/course-87
+Course 88,Description for Course 88,4.3,https://www.example.com/course-88
+Course 89,Description for Course 89,4.4,https://www.example.com/course-89
+Course 90,Description for Course 90,4.0,https://www.example.com/course-90
+Course 91,Description for Course 91,4.1,https://www.example.com/course-91
+Course 92,Description for Course 92,4.2,https://www.example.com/course-92
+Course 93,Description for Course 93,4.3,https://www.example.com/course-93
+Course 94,Description for Course 94,4.4,https://www.example.com/course-94
+Course 95,Description for Course 95,4.0,https://www.example.com/course-95
+Course 96,Description for Course 96,4.1,https://www.example.com/course-96
+Course 97,Description for Course 97,4.2,https://www.example.com/course-97
+Course 98,Description for Course 98,4.3,https://www.example.com/course-98
+Course 99,Description for Course 99,4.4,https://www.example.com/course-99
+Course 100,Description for Course 100,4.0,https://www.example.com/course-100
