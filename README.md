@@ -8,6 +8,7 @@ It offers **personalized assessments, real-time feedback, and smart learning rec
 ✅ **AI-Powered Course Recommendations** 📚  
 ✅ **AI-Driven Question Generation & Evaluation** 📝  
 ✅ **Real-Time Feedback & Analytics** 📊  
+✅ **AI-Driven Study Plan Generator** 📅  
 ✅ **Multiple Modes of Assessment (MCQ, Descriptive, Practicals, and Viva)** 📝  
 ✅ **Safe Exam Browser (SEB) for secure tests** 🔒  
 ✅ **Accessibility for PWD: Speech-to-Text, Voice Navigation, Haptic Sensation** 🌟  
