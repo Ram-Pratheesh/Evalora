@@ -7,8 +7,7 @@ Evalora is an **AI-driven skill assessment platform** designed for **students, p
 ✅ **AI-Powered Course Recommendations** 📚  
 ✅ **AI-Driven Question Generation & Evaluation** 📝  
 ✅ **Real-Time Feedback & Analytics** 📊  
-✅ **Multiple modes of assessment(Mcq,Decriptive,Practicals and Viva)**
-
+✅ **Multiple modes of assessment(Mcq,Decriptive,Practicals and Viva)**📝
 ✅ **Safe Exam Browser (SEB) for secure tests** 🔒    
 ✅ **Accessibility for PWD: Speech-to-Text, Voice Navigation, Haptic Sensation** 🌟  
 ✅ **Smart Question Difficulty Adaptation** 🔄  
